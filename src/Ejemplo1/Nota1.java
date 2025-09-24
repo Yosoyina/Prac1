@@ -7,6 +7,10 @@ public class Nota1 {
 
 		System.out.println("Hola mi mundo");
 		
+		
+		System.out.println("Hola esta es mi Rama 2");
+		
+		
 	}
 
 }
